@@ -13,6 +13,7 @@ N/A
 
 ## Usage
 The view the updated webpage please visit the following link: 
+https://dfbowen77.github.io/Module-1-Challenge/
 
 ## Credits
 N/A
